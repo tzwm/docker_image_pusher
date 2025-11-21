@@ -6,8 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-ghcr.io/latitude-dev/migrations:sha-c4d0a460d2a19c6923b71b6c814bde919206595b
-ghcr.io/latitude-dev/gateway:sha-c4d0a460d2a19c6923b71b6c814bde919206595b
-ghcr.io/latitude-dev/workers:sha-c4d0a460d2a19c6923b71b6c814bde919206595b
-ghcr.io/latitude-dev/websockets:sha-c4d0a460d2a19c6923b71b6c814bde919206595b
-ghcr.io/latitude-dev/web:sha-c4d0a460d2a19c6923b71b6c814bde919206595b
+ghcr.io/latitude-dev/migrations:sha-41597360ef734d2f6832068325175db306aa3e80
+ghcr.io/latitude-dev/gateway:sha-41597360ef734d2f6832068325175db306aa3e80
+ghcr.io/latitude-dev/workers:sha-41597360ef734d2f6832068325175db306aa3e80
+ghcr.io/latitude-dev/websockets:sha-41597360ef734d2f6832068325175db306aa3e80
+ghcr.io/latitude-dev/web:sha-41597360ef734d2f6832068325175db306aa3e80
