@@ -9,6 +9,8 @@ dperson/samba
 filebrowser/filebrowser
 tailscale/tailscale
 
+ghcr.io/openclaw/openclaw:main
+
 ghcr.io/latitude-dev/migrations:sha-5b265aa4f21e4c204d65e9d55e644ffa88b18d0f
 ghcr.io/latitude-dev/gateway:sha-5b265aa4f21e4c204d65e9d55e644ffa88b18d0f
 ghcr.io/latitude-dev/workers:sha-5b265aa4f21e4c204d65e9d55e644ffa88b18d0f
